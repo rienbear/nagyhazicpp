@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FeherJatekos">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>feherjatekos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FeketeJatekos">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAABAAABAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>feketejatekos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jatekos">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAACAAAAAABAQAAAAAQABABEQAAECA=</HashCode>
+      <FileName>jatekos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JatekTabla">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAMABAQQAAEgAgAQAAAAAIBBAAgIAAAAiAAAAAEAA=</HashCode>
+      <FileName>jatektabla.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jatek">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARgABAQAAAAABEAgAgAAAAAACAAAAAAAgAAAAAAAM=</HashCode>
+      <FileName>jatek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="JatekFazis">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>jatek.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
